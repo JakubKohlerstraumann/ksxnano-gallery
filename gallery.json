@@ -1,12 +1,7 @@
 [
   {
-    "id": "style_a1",
-    "name": "Style A1",
-    "description": "Primary style reference (A1).",
-    "url": "https://raw.githubusercontent.com/JakubKohlerstraumann/ksxnano-gallery/main/A1.jpg"
+    "id": "style_01",
+    "name": "Corporate Minimal",
+    "description": "Clean lines, navy blue palette, professional lighting.",
+    "url": "https://github.com/JakubKohlerstraumann/ksxnano-gallery/blob/main/A1.jpg"
   }
-]
-
-
-
-
