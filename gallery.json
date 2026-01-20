@@ -6,9 +6,22 @@
     "url": "https://raw.githubusercontent.com/JakubKohlerstraumann/ksxnano-gallery/main/A1.jpg"
   },
   {
-    "id": "style_a1",
-    "name": "Style A1",
-    "description": "Primary style reference (A1).",
+    "id": "style_a2",
+    "name": "Style A2",
+    "description": "Primary style reference (A2).",
     "url": "https://raw.githubusercontent.com/JakubKohlerstraumann/ksxnano-gallery/main/A2.jpg"
   }
+  {
+    "id": "style_a3",
+    "name": "Style A31",
+    "description": "Primary style reference (A3).",
+    "url": "https://raw.githubusercontent.com/JakubKohlerstraumann/ksxnano-gallery/main/A3.jpg"
+  }
+  {
+    "id": "style_a4",
+    "name": "Style A4",
+    "description": "Primary style reference (A4).",
+    "url": "https://raw.githubusercontent.com/JakubKohlerstraumann/ksxnano-gallery/main/A4.jpg"
+  }
 ]
+
